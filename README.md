@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of wiseclock/flarum-ext-reply2see.** Not for installation: use [Packagist](https://packagist.org/packages/wiseclock/flarum-ext-reply2see) or the [upstream repository](https://github.com/WiseClock/flarum-ext-reply2see).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/wiseclock-flarum-ext-reply2see/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/wiseclock-flarum-ext-reply2see/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-03-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/wiseclock-flarum-ext-reply2see/tree/archive/v0.1.0) |
+| `0.1.1` | 2017-07-28 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/wiseclock-flarum-ext-reply2see/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/wiseclock-flarum-ext-reply2see.json](https://github.com/flarchive/archive-index/blob/main/packages/wiseclock-flarum-ext-reply2see.json)
 
